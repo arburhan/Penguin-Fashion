@@ -26,7 +26,9 @@ ul{
     font-weight: 500;
 }
 .banner-text{
+    text-align: center;
     font-family: 'Bebas Neue', cursive;
+    margin: 50px 0px;
 }
 .focus-text{
     color: #FABE4C;
